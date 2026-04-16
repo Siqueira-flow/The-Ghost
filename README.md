@@ -6,7 +6,9 @@ Neste meu projeto o jogador é um fantasma, que tem que chegar ao seu corpo, e d
 CONTROLES
 
 Movimentação : AWSD
+
 Se esconder : F
+
 Sair do jogo : ESC
 
 Se puder testar esse "jogo", e dar a sua opinião no meu canal do youtube, sobre o que posso melhorar nessa minha jornada de Dev, eu ficaria agradecido.
